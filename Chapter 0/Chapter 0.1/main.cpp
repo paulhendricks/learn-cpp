@@ -2,4 +2,11 @@
 // Created by Paul Hendricks on 11/5/15.
 //
 
-#include "main.h"
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
